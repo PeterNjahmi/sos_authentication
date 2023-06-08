@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "218780327421",
+    "project_id": "sosapp-31f26",
+    "storage_bucket": "sosapp-31f26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218780327421:android:56e3e98181cee5861ccd94",
+        "android_client_info": {
+          "package_name": "com.caasitech.sosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218780327421-5h433cmb2b0oq7evca5b2k9kdksro1pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIWNPAz0PuPyw68Z6GpU552rhATO-2HtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218780327421-5h433cmb2b0oq7evca5b2k9kdksro1pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218780327421:android:844990e72eaaf43c1ccd94",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_xi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218780327421-5h433cmb2b0oq7evca5b2k9kdksro1pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIWNPAz0PuPyw68Z6GpU552rhATO-2HtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218780327421-5h433cmb2b0oq7evca5b2k9kdksro1pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
